@@ -39,7 +39,7 @@ Currently, I am leaving and working in Barcelona, Spain.
 
 ## Activity
 
-I am ready to colloborate and help for cloud native projects, different usefull tooling for Dev/DevOps/Ops/SRE. 
+I am ready to collaborate and help for cloud native projects, different usefull tooling for Dev/DevOps/Ops/SRE. 
 
 ## Contacts
 
