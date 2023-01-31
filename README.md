@@ -44,5 +44,5 @@ I am ready to collaborate and help for cloud native projects, different usefull 
 ## Contacts
 
 - email: [ageev.pavel.v@gmail.com](mailto:ageev.pavel.v@gmail.com)
-- linkedin: [insidieux](linkedin.com/in/insidieux)
+- linkedin: [insidieux](https://linkedin.com/in/insidieux)
 - telegram: [insidieux](https://t.me/insidieux)
