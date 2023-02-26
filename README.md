@@ -2,9 +2,9 @@
 
 Hi! I am Pavel Ageev/insidieux. 
 
-I am software engineer with infrastructure development backgroud.
+I am software engineer with infrastructure development background.
 
-Currently, I am leaving and working in Barcelona, Spain.
+Currently, I am living and working in Barcelona, Spain.
 
 ## Tech stack
 
@@ -12,7 +12,7 @@ Currently, I am leaving and working in Barcelona, Spain.
 
 - golang
 - php
-- js
+- js (react, vue, typescript)
 - ...
 
 ### Databases
@@ -39,7 +39,7 @@ Currently, I am leaving and working in Barcelona, Spain.
 
 ## Activity
 
-I am ready to collaborate and help for cloud native projects, different usefull tooling for Dev/DevOps/Ops/SRE. 
+I am ready to collaborate and help for cloud native projects, different useful tools for Dev/DevOps/Ops/SRE. 
 
 ## Contacts
 
